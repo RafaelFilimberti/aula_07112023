@@ -1,6 +1,6 @@
 export default{
     root: 'src',
-    base: 'https://github.com/RafaelFilimberti/Aula_07112023.git',
+    base: 'https://rafaelfilimberti.github.io/aula_07112023',
     build: {
         outDir: '../dist'
     }
